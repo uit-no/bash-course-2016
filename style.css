@@ -1,0 +1,27 @@
+body {
+    background-color: #202020;
+    font-family: 'VT323', monospace;
+    font-size: 48px;
+}
+
+h1 {
+    color: #ffffff;
+}
+
+h2 {
+    color: #00ff00;
+}
+
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+p {
+    font-size: 20px;
+    color: #ffffff;
+}
