@@ -61,6 +61,7 @@
 
 # Environment (Radovan, 10 min)
 
-- .bash_profile, bashrc, .profile.
+- aliases
+- .bash_profile, .bashrc, .profile.
 - environment variables
 - printenv
