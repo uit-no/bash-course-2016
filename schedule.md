@@ -1,5 +1,9 @@
 # Motivation for shells and command line (Radovan, 5 min)
 
+- bash is 27 years old 
+- why the command line is still alive in 2016
+- why are command names so short?
+
 # Brief intro to Stallo (Espen, 15 min)
 
 # First steps (Espen, 10 min)
@@ -62,6 +66,6 @@
 # Environment (Radovan, 10 min)
 
 - aliases
-- .bash_profile, .bashrc, .profile.
+- .bash_profile, .bashrc, .profile
 - environment variables
 - printenv
