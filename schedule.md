@@ -50,14 +50,14 @@
 
 # Scripting (Radovan, 30 min)
 
-- exit codes
 - shebang
 - variables
+- loops
+- conditionals
 - argv
 - stdin, stdout, stderr
 - redirection
-- loops
-- conditionals
+- exit codes and &&
 
 # Environment (Radovan, 10 min)
 
