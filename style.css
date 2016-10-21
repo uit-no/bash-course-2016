@@ -26,3 +26,9 @@ p {
     font-size: 20px;
     color: #ffffff;
 }
+
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 25px;
+    border-radius: 10px;
+}
