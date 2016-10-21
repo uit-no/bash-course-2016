@@ -12,6 +12,7 @@
 - man pages
 - help
 - apropos/whatis?
+- history, up, up down, reverse search
 
 # Navigating in the file tree (Espen, 20 min)
 
