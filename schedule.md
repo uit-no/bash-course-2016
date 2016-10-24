@@ -42,8 +42,9 @@
 - grep
 - sort
 - uniq
-- pipes
 - cut
+- pipes
+- $(eval), $(), escapes
 
 # Replacing things (Dan, 15 min)
 
