@@ -44,7 +44,6 @@
 - uniq
 - cut
 - pipes
-- $(eval), $(), escapes
 
 # Replacing things (Dan, 15 min)
 
@@ -59,6 +58,7 @@
 - shebang
 - variables
 - loops
+- $(eval), $(), escapes
 - conditionals
 - argv
 - stdin, stdout, stderr
