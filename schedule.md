@@ -21,7 +21,7 @@
 - hidden files
 - ls -l, -a,-ltr etc
 - tree
-- cd, pusd, popd
+- cd, cd -
 - which
 - symlinks
 
