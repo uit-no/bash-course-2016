@@ -37,7 +37,7 @@
 - tail (-f)
 - head
 
-# Data mining (Dan, 30 min)
+# Data mining (Dan, 40 min)
 
 - find
 - grep
@@ -45,9 +45,6 @@
 - uniq
 - cut
 - pipes
-
-# Replacing things (Dan, 15 min)
-
 - replace
 - sed
 - awk?
