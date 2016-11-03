@@ -24,6 +24,7 @@
 - cd, cd -, cd ~
 - which
 - symlinks
+- du -h
 
 # Break (10 min)
 
