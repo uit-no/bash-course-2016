@@ -55,7 +55,7 @@
 
 - shebang
 - variables
-- loops
+- loops (file renaming, restructuring)
 - $(eval), $(), escapes
 - conditionals
 - argv
