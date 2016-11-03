@@ -70,3 +70,7 @@
 - .bash_profile, .bashrc, .profile
 - environment variables
 - printenv
+
+# AOB
+
+- top
