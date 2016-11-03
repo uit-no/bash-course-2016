@@ -23,6 +23,7 @@
 - tree
 - cd, pusd, popd
 - which
+- symlinks
 
 # Break (10 min)
 
