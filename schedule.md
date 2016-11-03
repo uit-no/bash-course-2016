@@ -51,7 +51,7 @@
 
 # Break (10 min)
 
-# Scripting (Radovan, 30 min)
+# Scripting (Radovan, 40 min)
 
 - shebang
 - variables
