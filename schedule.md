@@ -30,7 +30,6 @@
 
 # File inspection (Giacomo, 30 min)
 
-- find
 - wc
 - cat
 - less
