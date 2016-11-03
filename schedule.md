@@ -65,6 +65,7 @@
 - stdin, stdout, stderr
 - redirection
 - exit codes and &&
+- time
 
 # Environment (Radovan, 10 min)
 
