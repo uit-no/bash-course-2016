@@ -1,0 +1,15 @@
+Long story short: in 1986 an interviewer asked Donald Knuth to write a
+program that takes a text and a number N in input, and lists the N
+most used words sorted by their frequencies. Knuth produced a 10-pages
+Pascal program, to which Douglas McIlroy replied with the following
+shell script:
+
+tr -cs A-Za-z '\n' |
+tr A-Z a-z |
+sort |
+uniq -c |
+sort -rn |
+sed ${1}q
+
+
+tr -cs A-Za-z '\n' | tr A-Z a-z | sort | uniq -c | sort -rn | head -10
