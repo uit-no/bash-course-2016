@@ -39,3 +39,17 @@ grep -v The gettysburg.txt
 If you know regular expressions egrep 
 
 egrep -o "(and|The)" gettysburg.txt
+
+sed replacing words (but can do much more)
+
+sed s/we/I/ gettysburg.txt 
+sed s/we/I/ gettysburg.txt |grep we
+
+use g to replace all occurences on a line
+
+sed s/we/I/g gettysburg.txt |grep we
+sed s/we/I/g gettysburg.txt 
+
+you need to escape special characters
+
+sed s/\\./\!/ gettysburg.txt
