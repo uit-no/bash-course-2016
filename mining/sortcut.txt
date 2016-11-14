@@ -4,7 +4,8 @@ man sort
 
 default alhabetic
 sort numbers.txt 
-sort numbers.txt 
+
+numeric sort -n
 sort -n numbers.txt 
 
 cut extract a column
@@ -13,6 +14,13 @@ man cut
 
 -d delimiter
 -f field
+
+redirect
+
+cut -d"," -f 3 numbers.txt > col3.txt
+sort col3.txt
+
+pipe
 
 cut -d"," -f 3 numbers.txt |sort 
 cut -d"," -f 3 numbers.txt |sort -n
