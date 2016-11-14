@@ -1,0 +1,14 @@
+Finding files
+
+find
+
+big files
+old files
+
+which
+
+executable
+
+locate
+
+quick based on database
