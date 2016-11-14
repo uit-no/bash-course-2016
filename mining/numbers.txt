@@ -1,0 +1,9 @@
+1,one,5
+1,two,9
+3,three,4
+4,four,7
+5,five,2
+6,six,1
+7,seven,3
+0,zero,0
+10,ten,10

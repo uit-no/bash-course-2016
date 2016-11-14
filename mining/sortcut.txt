@@ -1,0 +1,18 @@
+sorting
+
+man sort
+
+default alhabetic
+sort numbers.txt 
+sort numbers.txt 
+sort -n numbers.txt 
+
+cut extract a column
+
+man cut
+
+-d delimiter
+-f field
+
+cut -d"," -f 3 numbers.txt |sort 
+cut -d"," -f 3 numbers.txt |sort -n
