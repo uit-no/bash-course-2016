@@ -11,5 +11,7 @@ uniq -c |
 sort -rn |
 sed ${1}q
 
+"It is better to have 100 functions operate on one data structure than 10 functions on 10 data
+structures." Alan Perlis
 
 tr -cs A-Za-z '\n' | tr A-Z a-z | sort | uniq -c | sort -rn | head -10
