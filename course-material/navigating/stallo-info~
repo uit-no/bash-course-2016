@@ -1,0 +1,30 @@
+
+
+First steps (Espen, 10 min)
+
+echo “hello world”
+man pages
+help
+apropos/whatis?
+history, up, down, reverse search
+
+
+Navigating in the file tree (Espen, 20 min)
+
+permissions
+
+stat
+-ugo
+rwxrwxrwx
+
+
+cp, mv, rm, rmdir, mkdir
+hidden files
+ls -l, -a,-ltr etc
+tree
+cd, cd -, cd ~
+which
+symlinks
+du -h
+
+Exercise 1: Find the two hidden files that is placed in the navigation folder, then rename one of them to your-first-name.config.
