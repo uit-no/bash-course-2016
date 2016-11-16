@@ -1,8 +1,9 @@
 # Motivation for shells and command line (Radovan, 5 min)
 
 - bash is 27 years old 
-- why the command line is still alive in 2016
+- why the command line is still alive in 2016 (efficiency, bandwidth, reproducibility)
 - why are command names so short?
+- unix philosophy
 
 # Brief intro to Stallo (Espen, 15 min)
 
