@@ -1,0 +1,3 @@
+Standard permissions in linux is 664; meaning that 
+
+user (=you) have permission R+W = 110 in binary numbers (=6 in decimal numbers)
