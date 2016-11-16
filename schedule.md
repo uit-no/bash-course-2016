@@ -64,6 +64,7 @@
 - redirection
 - exit codes and &&
 - time
+- difference between defining and exporting variables
 
 # Environment (Radovan, 10 min)
 
