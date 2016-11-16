@@ -1,6 +1,6 @@
 # Motivation for shells and command line (Radovan, 5 min)
 
-- bash is 27 years old 
+- bash is 27 years old
 - why the command line is still alive in 2016 (efficiency, bandwidth, reproducibility)
 - why are command names so short?
 - unix philosophy
@@ -56,10 +56,10 @@
 
 - shebang
 - variables
+- argv
+- conditionals
 - loops (file renaming, restructuring)
 - $(eval), $(), escapes
-- conditionals
-- argv
 - stdin, stdout, stderr
 - redirection
 - exit codes and &&
