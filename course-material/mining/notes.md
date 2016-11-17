@@ -15,7 +15,7 @@ find /path/to/dir -name "filename"
 find files older than 7 days
 
 ```
-find /path/to/dir +mtime 7
+find /path/to/dir -mtime +7
 ```
 
 find files larger than 50k (and use `du` to print the actual size )
