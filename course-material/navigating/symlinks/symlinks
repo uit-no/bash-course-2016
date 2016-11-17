@@ -1,2 +1,31 @@
-What is a link:
+A brief chat about usefull stuff like:
+
+* Symlinks
+
+Symlinks are  - as you have seen - links that points at a certain file.
+
+aka the alias alternative on windows-based systems (including mac interface).
+
+$ cd symlinks
+$ ls -l
+$ mv symlinks symlinking.rst
+$ ls -l
+$ cd ..
+$ ls -l
+
+(What happened when we create a link and take away the original file.)
+
+* The which command
+
+If you want to find out about something:
+
+$ which ls 
+
+Where is the command placed, and typically which "version" of the command you are using.
+
+* How to find out about disk usage - `du -h` 
+
+$ du -h # man du
+
+What do we see.
 

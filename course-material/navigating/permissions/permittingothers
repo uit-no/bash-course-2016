@@ -1,3 +1,39 @@
 Standard permissions in linux is 664; meaning that 
 
 user (=you) have permission R+W = 110 in binary numbers (=6 in decimal numbers)
+group (=your standard group; typically you only) have permission R+W = 110 in binary numbers.
+others (=rest of users outside of you and the given group) have permission R+X = 101 in binary numbers (4 in decimal).
+
+So, lets make two folders:
+
+$ cd permissions
+$ mkdir permit1
+$ cp permittingothers permit1
+$ cp -R permit1 permit2
+
+Then check permissions: Two ways of doing this - either ls -l or using the command stat.
+
+$ ls -l
+
+$ stat permit?
+
+What do we see?
+
+This has significance if we want to limit and/or allow access for others to our files and folders:
+
+If you want to allow others to see the content of the folder, you need to give them R + X rights over the folder.
+
+Do emphasize this:
+
+$ chmod 444 permit1
+$ chmod 344 permit2
+$ ls permit?
+
+What do you see? Weird? File permissions is exactly the same. Then set the file permissions rigth.
+
+$ chmod 544 permit1
+$ ls permit?
+
+What do you see now?
+
+
